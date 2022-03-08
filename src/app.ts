@@ -9,5 +9,5 @@ const nyname : string ="phan duc vuong";
 const nyso : number = 2;
 const arrSo: number[] = [1,2,3];
 const object : object = {};
-const arrObject: object[] = [{id: 1}, {id: 2},{id: 3}];
+const arrObject: user[] = [{id: 1, name: "vuong"}, {id: 2, name: "vuong"},{id: 3, name: "vuong"}];
 
