@@ -1,0 +1,11 @@
+cài Typescript: npm i -g typescript
+dịch Typescript: tsc -w đường link
+chạy: tsc -w
+
+sửa:
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+câu hình: tsc --init;
+fix lỗi gạch chân đỏ: <script>var exports = {"__esModule": true};</script>
+
+
